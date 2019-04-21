@@ -7,6 +7,18 @@
 *{
     background-color: #e3e3e3;
 }
-me{
+.me{
     float: left;
+}
+.intro{
+    font-size: 24px;
+}
+.red{
+    color: red;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 32px;
 }

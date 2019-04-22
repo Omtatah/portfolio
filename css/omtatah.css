@@ -1,6 +1,26 @@
 .right{
     float: right;
+    size: contain;
 }
 .left{
     float: left;
+    size: contain;
+}
+.border1{
+    border: 2px;
+}
+.border2{
+    border: 2px;
+}
+.border3{
+    border: 2px;
+}
+.border4{
+    border: 2px;
+}
+.head{
+    border: 2px;
+    background-color: #c5d5cb;
+    font-size: 34px;
+    text-align: center;
 }

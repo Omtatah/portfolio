@@ -19,13 +19,16 @@
     border: 2px;
 }
 .head{
-    border: 2px;
-    background-color: #c5d5cb;
+    /* border: 2px; */
+    background-color: #9fa8a3;
     font-size: 34px;
     text-align: center;
 }
 .content1{
-    border: 2px;
+    /* border: 2px; */
     background-color: #c5d5cb;
     font-size: 28px;
+}
+body{
+    background-image: url(../images/stars-2402817_1920.jpg)
 }

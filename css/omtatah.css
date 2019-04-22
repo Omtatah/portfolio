@@ -18,6 +18,9 @@
 .border4{
     border: 2px;
 }
+#b1{
+    boder: 2px;
+}
 .head{
     /* border: 2px; */
     background-color: #9fa8a3;
@@ -32,3 +35,40 @@
 body{
     background-image: url(../images/stars-2402817_1920.jpg)
 }
+#me{
+    border-radius: 25px;
+}
+#me1{
+    border-radius: 25px;
+}
+#blueish{
+    color: #00BFFF;
+}
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c5d5cb;
+  }
+  
+  /* li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  } */
+  
+  /* Change the link color to #111 (black) on hover */
+  /* li a:hover {
+    background-color: #111; */
+  }
+  .an{
+      display: inline;
+      text-align: center;
+  }

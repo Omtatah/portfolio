@@ -1,28 +1,35 @@
-.container1{
+.container1 {
     width: 1200px;
     height: 400px;
     box-shadow: 10px 10px 10px 2px;
     background-color: white;
 }
-*{
+
+* {
     background-color: #e3e3e3;
 }
-.me{
+
+.me {
     float: left;
 }
-.intro{
+
+.intro {
     font-size: 24px;
 }
-.red{
+
+.red {
     color: red;
 }
-h1{
+
+h1 {
     font-size: 48px;
 }
-h2{
+
+h2 {
     font-size: 32px;
 }
-.anchor{
+
+.anchor {
     color: #666;
     font-size: 32px;
     text-decoration: none;
@@ -34,13 +41,15 @@ h2{
     border: none;
     /* background-color: #c5d5cb; */
 }
-button{
+
+button {
     border-radius: 2px;
     /* text-decoration: none; */
     /* border: none; */
     /* background-color: #c5d5cb; */
     margin-left: 350px;
 }
-#instruct{
+
+#instruct {
     margin-left: 350px;
 }

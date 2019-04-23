@@ -1,58 +1,71 @@
-.right{
+.right {
     float: right;
     size: contain;
 }
-.left{
+
+.left {
     float: left;
     size: contain;
 }
-.border1{
+
+.border1 {
     border: 2px;
 }
-.border2{
+
+.border2 {
     border: 2px;
 }
-.border3{
+
+.border3 {
     border: 2px;
 }
-.border4{
+
+.border4 {
     border: 2px;
 }
-#b1{
+
+#b1 {
     boder: 2px;
 }
-.head{
+
+.head {
     /* border: 2px; */
     background-color: #9fa8a3;
     font-size: 34px;
     text-align: center;
 }
-.content1{
+
+.content1 {
     /* border: 2px; */
     background-color: #c5d5cb;
     font-size: 28px;
 }
-body{
+
+body {
     background-image: url(../images/stars-2402817_1920.jpg)
 }
-#me{
+
+#me {
     border-radius: 25px;
 }
-#me1{
+
+#me1 {
     border-radius: 25px;
 }
-#blueish{
+
+#blueish {
     color: #00BFFF;
 }
+
 .nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #c5d5cb;
-  }
-  
-  /* li {
+}
+
+/* li {
     float: left;
   }
   
@@ -63,40 +76,48 @@ body{
     padding: 14px 16px;
     text-decoration: none;
   } */
-  
-  /* Change the link color to #111 (black) on hover */
-  /* li a:hover {
+
+/* Change the link color to #111 (black) on hover */
+
+/* li a:hover {
     background-color: #111; */
-  /* } */
-  .an{
-      display: inline;
-      text-align: center;
-      float: left;
-  }
-  .nav {
+
+/* } */
+
+.an {
+    display: inline;
+    text-align: center;
+    float: left;
+}
+
+.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-  }
-
-.active{
-    color:red;
 }
+
+.active {
+    color: red;
+}
+
 /* .nav {
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
   }
    */
-  li .an {
+
+li .an {
     color: #666;
-    display: inline; 
-  }
-  #tuct { 
-      font-size: 30px;
-  }
-  .anchor{
+    display: inline;
+}
+
+#tuct {
+    font-size: 30px;
+}
+
+.anchor {
     color: #666;
     font-size: 32px;
     border: 2px;
@@ -105,6 +126,7 @@ body{
     text-decoration: none;
     /* background-color: #c5d5cb; */
 }
-button{
+
+button {
     margin-left: 550px;
 }

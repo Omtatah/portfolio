@@ -84,12 +84,27 @@ body{
 .active{
     color:red;
 }
-.nav {
+/* .nav {
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
   }
-  
+   */
   li .an {
     color: #666;
     display: inline; 
   }
+  #tuct { 
+      font-size: 30px;
+  }
+  .anchor{
+    color: #666;
+    font-size: 32px;
+    border: 2px;
+    font-style: cursive;
+    border-width: thin;
+    text-decoration: none;
+    /* background-color: #c5d5cb; */
+}
+button{
+    margin-left: 550px;
+}
